@@ -1,4 +1,4 @@
-# SQL Project
+# Projeto SQL
 
 Este projeto configura um banco de dados PostgreSQL usando Docker. Inclui scripts SQL para definir o esquema e carregar dados.
 
