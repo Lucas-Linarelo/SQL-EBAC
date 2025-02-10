@@ -1,6 +1,6 @@
 # Projeto SQL
 
-Este projeto configura um banco de dados PostgreSQL usando Docker. Inclui scripts SQL para definir o esquema e carregar dados.
+Este projeto configura um banco de dados PostgreSQL usando Docker. Inclui scripts SQL para definir o esquema e carregar dados para uma construtora.
 
 <a href="https://github.com/Lucas-Linarelo/SQL-EBAC/blob/main/Tarefa-Demonstrativo.mp4" target="_blank">
   <img src="https://img.shields.io/badge/Assistir%20ao%20Vídeo-Video%20Demonstrativo-brightgreen?style=for-the-badge" alt="Assistir ao Vídeo Demonstração">
